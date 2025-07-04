@@ -1,4 +1,4 @@
-# Team Open API Version 2 中文版本
+# Team Open API Version 2 中文版本6666
 
 MAXIR AI 提供了一系列功能强大的 API 接口，支持与系统的无缝集成。所有接口均需使用您的 API Key 进行身份验证。
 
